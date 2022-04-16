@@ -1,0 +1,22 @@
+{
+  "name": "customed-framework",
+  "version": "1.0.0",
+  "description": "npm i\r parcel index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mint-nguyen/customed-framework.git"
+  },
+  "author": "Mint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mint-nguyen/customed-framework/issues"
+  },
+  "homepage": "https://github.com/mint-nguyen/customed-framework#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
